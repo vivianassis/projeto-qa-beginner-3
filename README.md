@@ -1,4 +1,4 @@
-# Projeto-qa-beginer (extra da edição 3)
+# Projeto-qa-beginner (extra da edição 3)
 ## Repositório focado no treinamento pós aprendizado de automação web para testes.
 
 Como o projeto oficial do Bootcamp de QA estava pronto graças a atuação no último, resolvi me desafiar e criar meus próprios testes, dessa vez focando em automação web.
